@@ -7,6 +7,7 @@ const MiniCodeEffectUnmount: React.FC = () => {
   return (
     <>
       {visible ? <MessageComponent name="Thanos" /> : null}
+      <p>Pulsa el botón para montar/desmontar un componente...</p>
       <button onClick={() => setVisible(!visible)}>I'm inevitable</button>
     </>
   );

@@ -1,4 +1,5 @@
 // import React from 'react'
+// Podríamos usar los hooks de esta forma también:
 // React.useState
 // React.useEffect
 import './App.css';
@@ -16,22 +17,20 @@ const App: React.FC = () => {
       <MiniCodeInput />
 
       <hr />
-      <hr />
 
       <MiniCodeComplexState />
 
       <hr />
-      <hr />
 
       <MiniCodeStateCallback />
 
+      <hr />
       <hr />
 
       <h2>Ejemplos con useEffect</h2>
 
       <MiniCodeEffectMount />
 
-      <hr />
       <hr />
 
       <MiniCodeEffectUnmount />

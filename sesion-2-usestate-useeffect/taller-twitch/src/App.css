@@ -4,3 +4,15 @@
   color: white;
   min-height: 100vh;
 }
+
+h1,
+h2,
+h3,
+h4 {
+  margin-top: 0;
+  padding: 0.5rem;
+}
+
+hr {
+  border: 1px solid #9e9e9e70;
+}
