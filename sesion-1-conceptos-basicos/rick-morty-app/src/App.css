@@ -1,0 +1,18 @@
+.App {
+  background-color: #282c34;
+  color: white;
+  min-height: 100vh;
+  padding: 1rem;
+  text-align: center;
+}
+
+.character-list {
+  align-items: flex-start;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+  list-style-type: none;
+  margin: 0 auto;
+  max-width: 1024px;
+}
