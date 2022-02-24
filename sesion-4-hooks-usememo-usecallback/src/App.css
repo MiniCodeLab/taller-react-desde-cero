@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+  padding: 2rem;
+}
+
+.tab-manager {
+  max-width: 100%;
+}
+
+.tab-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 2rem;
+  padding: 1rem;
+  gap: 1rem;
+  border-bottom: 1px solid #94a1b2;
+}
+
+.tab-header > button {
+  background: #7f5af0;
+  color: black;
+  border: 2px solid black;
+  border-radius: 3px;
+  font-size: 1rem;
+  padding: 0.5rem;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.tab-header .active {
+  background: #2cb67d;
+}
+
+.rows {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
+
+ul {
+  list-style-type: none;
+}
