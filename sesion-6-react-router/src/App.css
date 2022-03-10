@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  padding: 2rem;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.hero-links {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.nav {
+  border-bottom: 1px solid #94a1b2;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  padding-bottom: 1rem;
+}
