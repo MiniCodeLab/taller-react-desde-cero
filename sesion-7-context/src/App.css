@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+.header {
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--grey);
+}
+
+.header,
+.header a {
+  transition: all 200ms linear;
+}
+
+.header-light {
+  background-color: whitesmoke;
+}
+
+.header-dark {
+  background-color: var(--dark);
+}
+
+.header-nav {
+  align-items: center;
+  display: flex;
+  gap: 1rem;
+}
+
+.header-nav-light a:not(.active) {
+  color: black;
+}
+
+.header-content {
+  align-items: center;
+  display: flex;
+  gap: 1rem;
+}
+
+.theme-button {
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+  font-size: 1.25rem;
+}
+
+.header-search {
+}

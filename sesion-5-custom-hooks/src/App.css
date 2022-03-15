@@ -3,6 +3,10 @@
   padding: 2rem;
 }
 
+ul {
+  list-style-type: none;
+}
+
 .tab-manager {
   max-width: 100%;
 }
@@ -37,8 +41,4 @@
   align-items: center;
   justify-content: center;
   gap: 2rem;
-}
-
-ul {
-  list-style-type: none;
 }
