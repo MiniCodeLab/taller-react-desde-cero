@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+form {
+}
+
+fieldset {
+  border: 0;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.error-message {
+  color: red;
+}
