@@ -1,10 +1,6 @@
 import { useForm } from 'react-hook-form';
+import { Form } from '../types';
 import { ErrorMessage } from './ErrorMessage';
-
-type Form = {
-  username: string;
-  password: string;
-};
 
 const HookForm = () => {
   const {
