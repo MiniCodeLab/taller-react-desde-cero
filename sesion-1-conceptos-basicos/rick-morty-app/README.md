@@ -6,7 +6,7 @@ Aquí te dejamos el vídeo resubido del taller para ver cómo hemos desarrollado
 
 Y los artículos de la web donde podrás repasar todo lo que hemos trabajado juntos:
 
-- https://www.minicodelab.dev/feed/react-0-parte-1
-- https://www.minicodelab.dev/feed/react-0-parte-2
+- https://www.minicodelab.dev/feed/react-0-basicos-1
+- https://www.minicodelab.dev/feed/react-0-basicos-2
 
 Gracias por participar en esta comunidad ♥
